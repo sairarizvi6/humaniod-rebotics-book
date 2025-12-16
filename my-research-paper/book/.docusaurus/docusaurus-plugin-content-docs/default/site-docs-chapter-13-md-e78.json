@@ -1,0 +1,24 @@
+{
+  "id": "chapter-13",
+  "title": "Chapter 13: Robot Programming and Software Frameworks",
+  "description": "Bringing the theoretical concepts of Physical AI, kinematics, and dynamics to life in a functional robot requires powerful programming tools and well-structured software frameworks. This chapter explores the common languages, libraries, and operating systems that form the backbone of modern robotics development, enabling engineers and researchers to design, implement, and deploy complex robotic behaviors.",
+  "source": "@site/docs/chapter-13.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-13",
+  "permalink": "/chapter-13",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-13.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 12: Robot Kinematics and Dynamics",
+    "permalink": "/chapter-12"
+  },
+  "next": {
+    "title": "Chapter 14: Applications of Humanoid Robotics",
+    "permalink": "/chapter-14"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chapter-1",
+  "title": "Chapter 1: Introduction to Physical AI & Humanoid Robotics",
+  "description": "Welcome to the exciting world of Physical AI and Humanoid Robotics. This book aims to provide a comprehensive understanding of the interdisciplinary field that combines artificial intelligence, robotics, and advanced materials science to create intelligent physical systems capable of interacting with the real world.",
+  "source": "@site/docs/chapter-1.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-1",
+  "permalink": "/chapter-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/intro"
+  },
+  "next": {
+    "title": "Chapter 2: Foundations of Robotics",
+    "permalink": "/chapter-2"
+  }
+}

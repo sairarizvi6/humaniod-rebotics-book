@@ -1,0 +1,24 @@
+{
+  "id": "chapter-10",
+  "title": "Chapter 10: Advanced Control Systems",
+  "description": "The intelligence and physical capabilities of a robot, particularly a humanoid one, are ultimately realized through its control systems. While earlier chapters touched upon the basics of actuation and motion planning, this chapter delves into the advanced control strategies that enable robots to perform complex, dynamic, and precise movements, adapt to disturbances, and interact skillfully with their environment.",
+  "source": "@site/docs/chapter-10.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-10",
+  "permalink": "/chapter-10",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-10.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 9: Ethical Considerations in AI and Robotics",
+    "permalink": "/chapter-9"
+  },
+  "next": {
+    "title": "Chapter 11: Sensing and Actuation",
+    "permalink": "/chapter-11"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chapter-7",
+  "title": "Chapter 7: Human-Robot Interaction",
+  "description": "As robots become more sophisticated and integrate into our daily lives, homes, and workplaces, the nature of their interaction with humans becomes paramount. Human-Robot Interaction (HRI) is a multidisciplinary field focused on understanding, designing, and evaluating robotic systems for use by or with humans. For Physical AI and humanoid robotics, effective HRI is not just a convenience but a necessity for seamless and safe integration.",
+  "source": "@site/docs/chapter-7.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-7",
+  "permalink": "/chapter-7",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-7.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Locomotion and Navigation",
+    "permalink": "/chapter-6"
+  },
+  "next": {
+    "title": "Chapter 8: Learning and Adaptation",
+    "permalink": "/chapter-8"
+  }
+}

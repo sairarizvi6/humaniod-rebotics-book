@@ -1,0 +1,24 @@
+{
+  "id": "chapter-16",
+  "title": "Chapter 16: Building Your Own Humanoid Robot (Project)",
+  "description": "After exploring the theoretical and practical aspects of Physical AI and humanoid robotics, this chapter provides a hands-on guide to initiating your own humanoid robot project. While building a fully functional, sophisticated humanoid like those discussed in previous chapters is a monumental task, this section will guide you through building a simplified, educational humanoid or a component thereof, focusing on key principles and accessible technologies.",
+  "source": "@site/docs/chapter-16.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-16",
+  "permalink": "/chapter-16",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-16.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 15: Future Trends and Challenges",
+    "permalink": "/chapter-15"
+  },
+  "next": {
+    "title": "Chapter 17: Conclusion and Outlook",
+    "permalink": "/chapter-17"
+  }
+}

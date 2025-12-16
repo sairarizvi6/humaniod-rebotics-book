@@ -1,0 +1,20 @@
+{
+  "id": "chapter-17",
+  "title": "Chapter 17: Conclusion and Outlook",
+  "description": "We have journeyed through the intricate and fascinating world of Physical AI and humanoid robotics, exploring its foundational principles, advanced concepts, and myriad applications. From the basic components that constitute a robot to the sophisticated AI algorithms that imbue them with intelligence, and from the mathematical precision of kinematics to the ethical dilemmas of their integration into society, this book has aimed to provide a comprehensive overview of this rapidly evolving field.",
+  "source": "@site/docs/chapter-17.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-17",
+  "permalink": "/chapter-17",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-17.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 16: Building Your Own Humanoid Robot (Project)",
+    "permalink": "/chapter-16"
+  }
+}

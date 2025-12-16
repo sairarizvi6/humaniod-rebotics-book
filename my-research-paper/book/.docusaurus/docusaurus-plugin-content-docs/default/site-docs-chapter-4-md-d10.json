@@ -1,0 +1,24 @@
+{
+  "id": "chapter-4",
+  "title": "Chapter 4: Perception Systems",
+  "description": "In the journey of transforming robots into intelligent agents capable of interacting with the physical world, robust perception systems are paramount. Just as humans rely on their senses to understand and navigate their environment, robots depend on a suite of sensors and advanced processing techniques to acquire, interpret, and make sense of the world around them. This chapter delves into the core components and methodologies of robotic perception.",
+  "source": "@site/docs/chapter-4.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-4",
+  "permalink": "/chapter-4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Artificial Intelligence in Robotics",
+    "permalink": "/chapter-3"
+  },
+  "next": {
+    "title": "Chapter 5: Manipulation and Grasping",
+    "permalink": "/chapter-5"
+  }
+}

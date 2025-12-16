@@ -1,0 +1,24 @@
+{
+  "id": "chapter-14",
+  "title": "Chapter 14: Applications of Humanoid Robotics",
+  "description": "Having delved into the theoretical foundations, AI integration, hardware components, and software frameworks that enable humanoid robotics, this chapter shifts focus to the practical applications where these advanced Physical AI systems are making a tangible impact. Humanoid robots are uniquely positioned to operate in environments designed for humans, making them ideal candidates for a diverse range of tasks across various sectors.",
+  "source": "@site/docs/chapter-14.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-14",
+  "permalink": "/chapter-14",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-14.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 13: Robot Programming and Software Frameworks",
+    "permalink": "/chapter-13"
+  },
+  "next": {
+    "title": "Chapter 15: Future Trends and Challenges",
+    "permalink": "/chapter-15"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chapter-15",
+  "title": "Chapter 15: Future Trends and Challenges",
+  "description": "The field of Physical AI and humanoid robotics is dynamic, marked by rapid advancements and persistent challenges. As we look towards the future, it's clear that these intelligent machines will play an increasingly prominent role in society. This chapter explores the key emerging trends that will shape their development and the significant challenges that must be overcome to realize their full potential.",
+  "source": "@site/docs/chapter-15.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-15",
+  "permalink": "/chapter-15",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-15.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 14: Applications of Humanoid Robotics",
+    "permalink": "/chapter-14"
+  },
+  "next": {
+    "title": "Chapter 16: Building Your Own Humanoid Robot (Project)",
+    "permalink": "/chapter-16"
+  }
+}

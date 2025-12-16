@@ -1,0 +1,24 @@
+{
+  "id": "chapter-12",
+  "title": "Chapter 12: Robot Kinematics and Dynamics",
+  "description": "To precisely control a robot, especially one with a complex multi-jointed structure like a humanoid, a deep understanding of its motion capabilities is essential. This chapter delves into the mathematical foundations of robot motion: kinematics and dynamics. These concepts provide the tools to describe, analyze, and predict how a robot moves and how forces and torques influence that movement.",
+  "source": "@site/docs/chapter-12.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-12",
+  "permalink": "/chapter-12",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chapter-12.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 11: Sensing and Actuation",
+    "permalink": "/chapter-11"
+  },
+  "next": {
+    "title": "Chapter 13: Robot Programming and Software Frameworks",
+    "permalink": "/chapter-13"
+  }
+}
